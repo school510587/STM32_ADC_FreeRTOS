@@ -24,7 +24,7 @@
 #define __STM32F4_DISCOVERY_DEMO_H
 
 /* Includes ------------------------------------------------------------------*/
-
+#include "stm32f4_discovery.h"
 #include <stdio.h>
 
 
